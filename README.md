@@ -1,2 +1,2 @@
 # artickles
-Compilation lists of my localization works (EN to ID)
+Compilation lists of articles has been localized to bahasa Indonesia (EN to ID)
